@@ -1,0 +1,2 @@
+# Connect Four AI
+ This is a C++ implementation of the classic Connect Four game. The project uses a tree structure with eight levels of depth to analyze the best move in a given game situation. The game allows you to play against the AI, which evaluates the board and makes strategic moves.  The AI is designed to simulate decision-making using a tree traversal algorithm to select optimal moves. This game can be run in a console.
